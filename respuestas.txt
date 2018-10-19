@@ -29,8 +29,11 @@ contiene al primer hijo (en nuestro caso al primer hijo)
 Después de realizar el while ¿Comó quedara el elemento tbody ?
 se elimina el primer nodo, o sea que la tabla quedara sin el primer nodo que se creo
 
+¿Qué es lo que obtenemos cuando se ejecuta item.childNodes[i].textContent;
+se toma el valor de cada uno de los nodos pero en forma de texto
+
 ¿Qué es lo que obtenemos cuando se realiza document.querySelector(".tabla-btc tbody") ?
-se toma el valor de cada nodo
+Busca esa clase y toma su primer elemento
 
  ¿Qué hace el método childElementCount?
 cuenta todos los elementos de esa clase
