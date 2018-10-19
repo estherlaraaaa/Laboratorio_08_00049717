@@ -1,0 +1,42 @@
+¿Qué contienen la variable formulario ?
+todo el formulario del html 
+
+¿Qué hace el método evt.preventDefault() ?
+cancela la acciopn del evento
+
+ ¿Qué es lo que contiene formulario[x]?
+contiene el valor de los input de la clase formulario
+
+ ¿Qué contienen las variables tr y td ?
+contienen la creacion de los elementos tr y td 
+
+
+¿Qué contienen la variable content ?
+tiene el texto creado
+
+
+¿Qué valor tendra tbody al finalizar la iteración?
+todos los valores de td 
+
+
+Describa en pocas palabras lo que realizara esta función
+tiene todo lo necesario para poder crear una tabla (estructura)
+
+
+¿Qué es lo que hace .firstChild?
+contiene al primer hijo (en nuestro caso al primer hijo)
+
+Después de realizar el while ¿Comó quedara el elemento tbody ?
+se elimina el primer nodo, o sea que la tabla quedara sin el primer nodo que se creo
+
+¿Qué es lo que obtenemos cuando se realiza document.querySelector(".tabla-btc tbody") ?
+se toma el valor de cada nodo
+
+ ¿Qué hace el método childElementCount?
+cuenta todos los elementos de esa clase
+
+¿Qué se mostrara en pantalla cuando se ejecute la función agregar()?
+nada porque no tiene un valor de retorno 
+
+ ¿Qué se mostrara en el navegador despues de ejecutar la función mostrar?
+todos los valores ingresados en el formulario 
